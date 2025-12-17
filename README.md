@@ -32,11 +32,11 @@ The camera is capable of tracking a recognized person in real time using a dual 
 
 ## Installation
 - Clone this repository
-- Download and train the human detection dataset from Roboflow:  
-  https://app.roboflow.com/skripsi-cqegk/yolov8-mjqbp/1  
+- Download and train the human detection dataset from Roboflow:  [YOLOv8]
+  (https://app.roboflow.com/skripsi-cqegk/yolov8-mjqbp/1) 
   Train the model using `train_model_yolo.py`
-- Or download the pretrained YOLOv8n model from Hugging Face:  
-  https://huggingface.co/panjigema/YOLOv8n_Human_Class
+- Or download the pretrained YOLOv8n model from Hugging Face: [panjigema/YOLOv8n_Human_Class] 
+  (https://huggingface.co/panjigema/YOLOv8n_Human_Class)
 - Run `kumpul_data_wajah.py` to collect face images
 - Train the face recognition model using `training_face_model.py`
 - Connect Raspberry Pi to the internet and run `pwm_servo.py`
@@ -114,8 +114,8 @@ Contributions are welcome.
 Please open issues or submit pull requests to collaborate or improve the system.
 
 ## License
-This project is licensed under the MIT License - see the  
-https://github.com/ice-bear14/Human_tracking/blob/main/LICENSE  
+This project is licensed under the MIT License - see the [LICENSE] 
+(LICENSE)  
 file for details.
 
 ## Contact
