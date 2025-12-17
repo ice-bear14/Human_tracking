@@ -86,8 +86,7 @@ The tracking mechanism is driven by an <b>MG996 servo motor</b>, controlled by a
 - Tracking and ID Labeling: DeepSort  
 
 ## Dataset
-- Human Detection Dataset:  
-  https://app.roboflow.com/skripsi-cqegk/yolov8-mjqbp/1
+- Human Detection Dataset: [YOLOv8](https://app.roboflow.com/skripsi-cqegk/yolov8-mjqbp/1)
 - Face Recognition Dataset:  
   Custom face images collected manually using `kumpul_data_wajah.py`
 
